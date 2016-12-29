@@ -3,8 +3,8 @@ Created on 28 dec. 2016
 
 @author: radi961
 '''
-from src import test
 from _functools import reduce
+from src import test
 
 def yellow_be_gone(color_name_or_code):
     #creating a dictionary for colors
