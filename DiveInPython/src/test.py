@@ -11,7 +11,6 @@ def it(s):
     print(s)
     
 def assert_equals(actualValue, expectedValue):
-    print(actualValue + " " + expectedValue)
     if (not actualValue == expectedValue):
         raise(ValueError(' Values are not equal  actual ' + actualValue + ' expected ' + expectedValue))
     
@@ -22,3 +21,12 @@ def assert_true(value):
 def assert_false(value):
     if (not value == False):
         raise(ValueError('Value is not False'))
+
+def assert_equals_int(actualValue, expectedValue):
+    if (not actualValue == expectedValue):
+        raise(ValueError(' Values are not equal  actual ' + str(actualValue) + ' expected ' + str(expectedValue)))
+    
+def __init__(self, iq_test, param1):
+    pass
+
+
