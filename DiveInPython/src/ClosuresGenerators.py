@@ -6,7 +6,6 @@ Created on 27 dec. 2016
 import os
 import glob
 import re
-from src import test
 
 def plural(noun):
     for match, apply in get_rules('plural4-rules.txt'):

@@ -1,4 +1,4 @@
-from src import roman1
+from src import romanRefactoring
 import unittest
 
 class KnownValues(unittest.TestCase):
@@ -57,34 +57,43 @@ class KnownValues(unittest.TestCase):
                      (3844, 'MMMDCCCXLIV'),
                      (3888, 'MMMDCCCLXXXVIII'),
                      (3940, 'MMMCMXL'),
-                     (3999, 'MMMCMXCIX'))
+                     (3999, 'MMMCMXCIX'),
+                     (4000, 'MMMM'),
+                     (4500, 'MMMMD'),
+                     (4888, 'MMMMDCCCLXXXVIII'),
+                     (4999, 'MMMMCMXCIX'))
 
     def test_to_roman_known_values(self):
         '''to_roman should give known result with known input'''
         for integer, numeral in self.known_values:
-            result = roman1.to_roman(integer)
+            result = romanRefactoring.to_roman(integer)
             self.assertEqual(numeral, result)
 
     def test_to_roman_out_of_range(self):
         '''to_roman should give known result with known input'''
-        self.assertRaises(roman1.OutOfRangeError, roman1.to_roman, 4000)
-        self.assertRaises(roman1.OutOfRangeError, roman1.to_roman, -1)
-        self.assertRaises(roman1.OutOfRangeError, roman1.to_roman, 0)
+        self.assertRaises(romanRefactoring.OutOfRangeError, romanRefactoring.to_roman, 5000)
+        self.assertRaises(romanRefactoring.OutOfRangeError, romanRefactoring.to_roman, -1)
+        self.assertRaises(romanRefactoring.OutOfRangeError, romanRefactoring.to_roman, 0)
 
     def test_to_roman_non_integers(self):
         '''to_roman should give known result with known input'''
-        self.assertRaises(roman1.NonIntegerError, roman1.to_roman, 0.5)
-        self.assertRaises(roman1.NonIntegerError, roman1.to_roman, 1.0)
+        self.assertRaises(romanRefactoring.NonIntegerError, romanRefactoring.to_roman, 0.5)
+        self.assertRaises(romanRefactoring.NonIntegerError, romanRefactoring.to_roman, 1.0)
 
 
     def test_roman_to_numeral(self):
         for integer, numeral in self.known_values:
-            result = roman1.roman_to_numeral(numeral)
+            result = romanRefactoring.roman_to_numeral(numeral)
             self.assertEqual(integer, result)
             
     def test_roman_to_numeral_invalid_values(self):
-        self.assertRaises(roman1.NonValidRomanValueError, roman1.roman_to_numeral, 'MMMM')
-        self.assertRaises(roman1.NonValidRomanValueError, roman1.roman_to_numeral, '')
+        self.assertRaises(romanRefactoring.NonValidRomanValueError, romanRefactoring.roman_to_numeral, 'MMMMM')
+        self.assertRaises(romanRefactoring.NonValidRomanValueError, romanRefactoring.roman_to_numeral, '')
+
+    def test_roundtrip(self):
+        for i in range(1,5000):
+            romanValue = romanRefactoring.to_roman(i)
+            self.assertEqual(i, romanRefactoring.roman_to_numeral(romanValue), 'Roundtrip failure for {0}'.format(i))
 
 if __name__ == '__main__':
     unittest.main()
