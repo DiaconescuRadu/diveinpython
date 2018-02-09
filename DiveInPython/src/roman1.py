@@ -85,8 +85,8 @@ class OutOfRangeError(ValueError):
     pass    
 
 if __name__ == '__main__':
-    print(to_roman(1450))
-    print(roman_to_numeral('D'))
+    print(to_roman(1))
+    print(roman_to_numeral('I'))
     pass
 
 class NonIntegerError(ValueError):
