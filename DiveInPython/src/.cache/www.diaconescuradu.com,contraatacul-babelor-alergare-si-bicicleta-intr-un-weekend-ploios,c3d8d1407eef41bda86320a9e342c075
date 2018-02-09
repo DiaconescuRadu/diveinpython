@@ -1,0 +1,561 @@
+status: 200
+wp-super-cache: Served supercache file from PHP
+content-length: 71726
+content-location: http://www.diaconescuradu.com/contraatacul-babelor-alergare-si-bicicleta-intr-un-weekend-ploios
+x-powered-by: PHP/5.4.4-14+deb7u5
+vary: Accept-Encoding,Cookie
+server: Apache/2.2.22 (Debian)
+-content-encoding: gzip
+cache-control: max-age=3, must-revalidate
+date: Tue, 04 Apr 2017 19:56:28 GMT
+content-type: text/html; charset=UTF-8
+-varied-accept-encoding: gzip, deflate
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="ro-RO" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="ro-RO" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]--> <!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="ro-RO" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Contraatacul babelor, alergare si bicicleta intr-un weekend ploios - Jurnal de aventura si explorare</title>
+
+<link rel="stylesheet" href="http://www.diaconescuradu.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.9.3" type="text/css" media="all" />
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.diaconescuradu.com/xmlrpc.php">
+    <link rel="shortcut icon" href="http://www.diaconescuradu.com/wp-content/themes/twentythirteen/favicon.ico">
+	<!--[if lt IE 9]>
+	<script src="http://www.diaconescuradu.com/wp-content/themes/twentythirteen/js/html5.js"></script>
+	<![endif]-->
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.diaconescuradu.com/contraatacul-babelor-alergare-si-bicicleta-intr-un-weekend-ploios" />
+<meta property="og:locale" content="ro_RO" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Contraatacul babelor, alergare si bicicleta intr-un weekend ploios - Jurnal de aventura si explorare" />
+<meta property="og:description" content="Anul acesta babele au fost blande cu noi la inceput de martie si am avut parte de doua saptamani cu vreme numai buna de biciclit si cu temperaturi de primavara iata ca dupa ce au rabdat ce au rabdat s-au razbunat din plin in weekendul ce tocmai a trecut, cu zile in care s-au sucess &hellip;" />
+<meta property="og:url" content="http://www.diaconescuradu.com/contraatacul-babelor-alergare-si-bicicleta-intr-un-weekend-ploios" />
+<meta property="og:site_name" content="Jurnal de aventura si explorare" />
+<meta property="article:publisher" content="https://www.facebook.com/diaconescu.radu.9?fref=ts" />
+<meta property="article:section" content="Alergat" />
+<meta property="article:published_time" content="2017-03-22T06:52:09+00:00" />
+<meta property="article:modified_time" content="2017-03-22T06:54:01+00:00" />
+<meta property="og:updated_time" content="2017-03-22T06:54:01+00:00" />
+<meta property="fb:admins" content="937402829644413" />
+<meta property="og:image" content="http://www.diaconescuradu.com/wp-content/uploads/2017/03/IMG_20170318_110930-1.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.diaconescuradu.com\/","name":"Jurnal de aventura si explorare"}</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Jurnal de aventura si explorare &raquo; Feed" href="http://www.diaconescuradu.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Jurnal de aventura si explorare &raquo; Comments Feed" href="http://www.diaconescuradu.com/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Jurnal de aventura si explorare &raquo; Contraatacul babelor, alergare si bicicleta intr-un weekend ploios Comments Feed" href="http://www.diaconescuradu.com/contraatacul-babelor-alergare-si-bicicleta-intr-un-weekend-ploios/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.diaconescuradu.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.13"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='pe2-display.css-css'  href='http://www.diaconescuradu.com/wp-content/plugins/picasa-express-x2/pe2-display.css?ver=2.2.10' type='text/css' media='all' />
+<link rel='stylesheet' id='language-selector-css'  href='http://www.diaconescuradu.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector-click.css?ver=4.2.13' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.diaconescuradu.com/wp-content/themes/twentythirteen/fonts/genericons.css?ver=2.09' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-style-css'  href='http://www.diaconescuradu.com/wp-content/themes/twentythirteen/style.css?ver=2013-07-18' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentythirteen-ie-css'  href='http://www.diaconescuradu.com/wp-content/themes/twentythirteen/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://www.diaconescuradu.com/wp-content/plugins/sitepress-multilingual-cms/res/js/language-selector.js?ver=4.2.13'></script>
+<script type='text/javascript' src='http://www.diaconescuradu.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.diaconescuradu.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.diaconescuradu.com/wp-content/themes/twentythirteen/custom-js/jquery.carouFredSel-6.2.1.js?ver=6.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.diaconescuradu.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.diaconescuradu.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.13" />
+<link rel='shortlink' href='http://www.diaconescuradu.com/?p=4468' />
+<meta name="generator" content="WPML ver:2.9.3 stt:46,1;0" />
+<link rel="alternate" hreflang="ro-RO" href="http://www.diaconescuradu.com/contraatacul-babelor-alergare-si-bicicleta-intr-un-weekend-ploios" />
+	<style type="text/css" id="twentythirteen-header-css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px 1px 1px 1px); /* IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+			.site-header .home-link {
+			min-height: 0;
+		}
+		</style>
+	</head>
+
+<body class="single single-post postid-4468 single-format-standard single-author">
+	<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+			<a class="home-link" href="http://www.diaconescuradu.com/" title="Jurnal de aventura si explorare" rel="home">
+				<h1 class="site-title">Jurnal de aventura si explorare</h1>
+				<h2 class="site-description">Alpinism, Alergat, Escalada, Cicloturism, Ultramaratoane si alte lucruri aventuroase.</h2>
+			</a>
+
+			<div id="navbar" class="navbar">
+				<nav id="site-navigation" class="navigation main-navigation" role="navigation">
+					<h3 class="menu-toggle">Menu</h3>
+					<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
+					<div class="menu-navmenu-container"><ul id="menu-navmenu" class="nav-menu"><li id="menu-item-529" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-529"><a href="http://www.diaconescuradu.com/">Home</a></li>
+<li id="menu-item-1394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1394"><a href="http://www.diaconescuradu.com/despre">Despre</a>
+<ul class="sub-menu">
+	<li id="menu-item-1393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1393"><a href="http://www.diaconescuradu.com/despre-mine">Despre mine</a></li>
+	<li id="menu-item-1392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1392"><a href="http://www.diaconescuradu.com/despre-blog">Despre blog</a></li>
+	<li id="menu-item-530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-530"><a href="http://www.diaconescuradu.com/arhiva">Arhiva</a></li>
+	<li id="menu-item-3457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3457"><a href="http://www.diaconescuradu.com/cantecul-zilei">Cantecul zilei</a></li>
+</ul>
+</li>
+<li id="menu-item-1503" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1503"><a href="http://www.diaconescuradu.com/aventuri/bike-climb-bike">Aventuri</a>
+<ul class="sub-menu">
+	<li id="menu-item-3567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3567"><a href="http://www.diaconescuradu.com/aventuri/the-bartang-valley-one-of-the-most-adventurous-ways-of-crossing-the-pamirs">The Bartang valley, one of the most adventurous ways of crossing the Pamirs</a></li>
+	<li id="menu-item-3392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3392"><a href="http://www.diaconescuradu.com/aventuri/propark-2015-experienta-unei-curse-de-aventura">Propark 2015, experienta unei curse de aventura.</a></li>
+	<li id="menu-item-1285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1285"><a href="http://www.diaconescuradu.com/aventuri/bike-climb-bike">Bike.Climb.Bike 2011</a></li>
+	<li id="menu-item-1286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1286"><a href="http://www.diaconescuradu.com/aventuri/khan-tengri-prin-forte-proprii">Khan Tengri prin forte proprii 2014</a></li>
+</ul>
+</li>
+<li id="menu-item-532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-532"><a href="http://www.diaconescuradu.com/explore">Explore</a></li>
+<li id="menu-item-2994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2994"><a href="http://www.diaconescuradu.com/echipament">Echipament</a></li>
+<li id="menu-item-1847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1847"><a href="http://www.diaconescuradu.com/galerie">Galerie</a>
+<ul class="sub-menu">
+	<li id="menu-item-1851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1851"><a href="http://www.diaconescuradu.com/galerie/munti">Munti</a></li>
+	<li id="menu-item-1849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1849"><a href="http://www.diaconescuradu.com/galerie/cicloturism">Cicloturism</a></li>
+	<li id="menu-item-1850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1850"><a href="http://www.diaconescuradu.com/galerie/orase">Orase</a></li>
+	<li id="menu-item-1848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a href="http://www.diaconescuradu.com/galerie/diversificate">Diversificate</a></li>
+</ul>
+</li>
+<li id="menu-item-2118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2118"><a href="http://www.diaconescuradu.com/harta">Harta</a>
+<ul class="sub-menu">
+	<li id="menu-item-2192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2192"><a href="http://www.diaconescuradu.com/harta">Unde sunt</a></li>
+	<li id="menu-item-2187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2187"><a href="http://www.diaconescuradu.com/harta/traseu">Traseu</a></li>
+</ul>
+</li>
+</ul></div>                    <form role="search" method="get" class="search-form" action="http://www.diaconescuradu.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>					    <div class="social_header">
+        <a class="social-media-icon facebook" target="_blank" href="https://www.facebook.com/diaconescu.radu.9">F</a>
+        <a class="social-media-icon google-plus" target="_blank" href="https://plus.google.com/u/0/+DiaconescuRadu/posts">G+</a>
+        <a class="social-media-icon email" target="_blank" href="http://eepurl.com/btBGbf">Email</a>
+        <!--a class="social-media-icon twitter" target="_blank" href="https://plus.google.com/102164334047255333030/posts">T</a!-->
+        <a class="social-media-icon rss" target="_blank" href="http://www.diaconescuradu.com/feed">Rss</a>
+    </div><a class="language_switcher" href="">EN</a>    				</nav><!-- #site-navigation -->
+			</div><!-- #navbar -->
+		</header><!-- #masthead -->
+
+		<div id="main" class="site-main">
+
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+        $(window).load(function(){ $('#img_container').masonry({
+             columnWidth: 415,
+             itemSelector: '.tile_img_container'
+        }); });
+    });
+</script>
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content single-content" role="main">
+						
+				<article id="post-4468" class="post-4468 post type-post status-publish format-standard has-post-thumbnail hentry category-alergat category-bucegi category-cursiera category-interesant-si-provocator">
+	<header class="large-header">
+				<div class="entry-thumbnail">
+            <img  height="1198" src="http://www.diaconescuradu.com/wp-content/uploads/2017/03/IMG_20170318_110930-1.jpg" class="attachment-post-thumbnail wp-post-image" alt="IMG_20170318_110930 (1)" />		</div>
+		        <div class="entry-header">
+                        <h1 class="entry-title">Contraatacul babelor, alergare si bicicleta intr-un weekend ploios</h1>
+            
+            <div class="entry-meta">
+                <span class="date"><a href="http://www.diaconescuradu.com/contraatacul-babelor-alergare-si-bicicleta-intr-un-weekend-ploios" title="Permalink to Contraatacul babelor, alergare si bicicleta intr-un weekend ploios" rel="bookmark"><time class="entry-date" datetime="2017-03-22T06:52:09+00:00">March 22, 2017</time></a></span><span class="categories-links"><a href="http://www.diaconescuradu.com/category/alergat" rel="category tag">Alergat</a>, <a href="http://www.diaconescuradu.com/category/bucegi" rel="category tag">Bucegi</a>, <a href="http://www.diaconescuradu.com/category/cursiera" rel="category tag">Cursiera</a>, <a href="http://www.diaconescuradu.com/category/interesant-si-provocator" rel="category tag">Interesant</a></span><span class="author vcard"><a class="url fn n" href="http://www.diaconescuradu.com/author/radi" title="View all posts by Diaconescu Radu" rel="author">Diaconescu Radu</a></span>                		</div><!-- .entry-meta -->
+		</div><!-- .entry-header -->
+	</header><!-- .large-header -->
+
+		<div class="entry-content end_div">
+		<p>Anul acesta babele au fost blande cu noi la inceput de martie si am avut parte de doua saptamani cu vreme numai buna de biciclit si cu temperaturi de primavara iata ca dupa ce au rabdat ce au rabdat s-au razbunat din plin in weekendul ce tocmai a trecut, cu zile in care s-au sucess in ordine rapida soarele, lapovita, ploaia, vantul in cam toate combinatiile posibile.</p>
+<p>Planul pentru weekend includea 2 nopti petrecute la Moeciu in compania unor vechi prieteni cu sperante de schi pe zapada proaspata. Singura problema ca atunci cand vine momentul in care trebuie sa-ti iei schiurile in spate, in fata unui forestier complet uscat si cu o prognoza care anunta ploaie din plin parca perspectiva unor viraje pe zapada proaspata nu mai e chiar asa de roz.</p>
+<p>Asa ca privind cu jind la cerul senin ce inca zabovea deasupra Bucegiului sambata dimineata reconfiguram tura si schimbam claparii cu adidasii de alergare si pornim pe acelasi forestier ce urca din Simon catre saua Gaura. Avem cateva ore pana cand vremea se va strica si vrem sa profitam la maxim de ele. In schimb babele ne-au pus gand rau si pentru combinatia asta si dupa 4 kilometri de forestier incepe sa alergam pe zapada din ce in ce mai mare. Practic zapada noua incepe brusc de la 1200 de metri si pe masura ce urcam incepe sa treaca de glezne, de gabe si in cele din urma si de genunchi atunci cand iesim in poienile de sub Valea Gaura.</p>
+<p>Aici in schimb avem parte de un moment in care cerul se deschide si in care putem admira in toata splendoarea sa amfiteatrul vaii Gaura. Cred ca sunt putine locuri mai spectaculoase in Bucegi mai ales pentru ca aici te simti cumva departe de civilizatie, nu se vede nici un oras in departare iar locurile sunt mult mai putin umblate in comparatie cu abruptul prahovean. La primavara cand se incalzeste si cand vor aparea brandusele trebuie sa venim sa petrecem aici o seara la foc, eventual intr-o mica aventura din timpul saptamanii.</p>
+<p>Iar legat de alergat chiar daca mare parte din tura a fost alcatuita mai mult din inotat in zapada trebuie spus ca recunosc ca mi-a lipsit rapiditatea cu care poti acoperi distantele. Probabil cu schiurile in spate nu am fi ajuns aici in momentul potrivit. Pe de alta parte schiurile ne-ar fi ajutat cu siguranta pe traverseul catre Poiana Gutanu unde intram in unele locuri pana la brau in zapada.</p>
+<p>Intre timp se strica si vremea, muntii sunt invaluiti de nori si incepe sa ninga, noi alergam la vale prin zapada spre Poiana Gutanu si de aici mai departe pe muchie pe Simon. Ninsoarea se transforma pe rand in lapovita si ninsoare, zapada de pe poteca incepe sa dispara si alergatul devine din nou placut iar eu imi amintesc ca ar fi fain sa mai fac si alte ture de genul acesta in primavara si in vara aceasta. Restul zilei il petrecem depanand amintiri cu prietenii si cu un pic de Milan-SanRemo.</p>
+<p><strong>Dimineata de duminica</strong> ne intampina cu aceasi ploaie marunta si cu vreme inchisa in vreme ce conducem spre Pasul Bratocea. Si astazi incercam sa fugim de ploaie si de vreme rea si implicit si de zapada si de schiuri. Planul e o tura in dealurile prahoveno-buzoiene cu plecare din Valenii de Munte, impreuna cu Suzi si cu Iustin.</p>
+<p>Vremea rea si lapovita se termina fix dupa cheia si de aici ne ia in primire soarele, cerul albastru si vantul. In prima parte a turei il avem fie din laterala fie din spate si acesta e suficient de puternic incat sa avem momente in care mergem cu 40 la ora fara sa dam din pedale pe o panta usoara la vale. In acelasi timp toti stim ca o sa trebuiasca probabil sa platim la un moment dat pentru momentele astea, dar pana atunci ne bucuram de pedalatul pe terenul valurit din Buzau. Ca si in ultimele ture pe cursiera traficul fie lipseste aproape complet fie nu e nederanjant si nu putine sunt momentele in care putem pedala in voie in paralel stand de vorba in voie. Iar urcarea de la Ciolatu si drumul inapoi spre DN1A sunt poate unele din cele mai faine bucati pedalate in ultima vreme.</p>
+<p>In schimb vine si momentul in care trebuie sa platim pentru soarele si pentru vantul din spate din timpul turei, respectiv fix la sfarsitul turei, dupa 120 de kilometri de pedalat. Au fost 45 de minute in care am pedalat din rasputeri pentru a tine o mirobolanta viteza de 20 de kilometri intr-o cursa cu lasarea intunericului. Dar asta e, momente de genul acesta iti calesc putin psihicul si mi-au adus aminte de zilele in care am avut parte de un vant similar in calatoria prin Asia Centrala. Vantul e clar cel mai mare inamic al ciclistului.</p>
+<p>Date si track (inainte de a muri bateria) aici:</p>
+<p><a href="https://www.strava.com/activities/906772140">https://www.strava.com/activities/906772140</a></p>
+<div style="width: 810px" class="wp-caption aligncenter"><a href="https://lh3.googleusercontent.com/-_NkOCzocOao/WNGD4WAgaEI/AAAAAAAA0ns/QoCD8xhwi5k6VIzZNS2PF8csdHgHsC_UQCHM/s0/IMG_20170318_094738.jpg" link="https://picasaweb.google.com/102164334047255333030/6379671840151154689#6400041549473802306" data-slb-group="4468" data-slb-active="1"><img class="aligncenter" src="https://lh3.googleusercontent.com/-_NkOCzocOao/WNGD4WAgaEI/AAAAAAAA0ns/QoCD8xhwi5k6VIzZNS2PF8csdHgHsC_UQCHM/s800/IMG_20170318_094738.jpg" alt="Alergam cu spor pe forestierul de pe valea Gaura."  /></a>
+<p class="wp-caption-text">Alergam cu spor pe forestierul de pe valea Gaura.</p>
+</div>
+<div style="width: 810px" class="wp-caption aligncenter"><a href="https://lh3.googleusercontent.com/-1wUp901Uvoc/WNGD4WHxlgI/AAAAAAAA0ns/lIlcCAWwR64RfUXSGSGxrQqyRjbDhla4QCHM/s0/IMG_20170318_105340.jpg" link="https://picasaweb.google.com/102164334047255333030/6379671840151154689#6400041549504288258" data-slb-group="4468" data-slb-active="1"><img class="aligncenter" src="https://lh3.googleusercontent.com/-1wUp901Uvoc/WNGD4WHxlgI/AAAAAAAA0ns/lIlcCAWwR64RfUXSGSGxrQqyRjbDhla4QCHM/s800/IMG_20170318_105340.jpg" alt="Zapada din plin la iesirea din padure."  /></a>
+<p class="wp-caption-text">Zapada din plin la iesirea din padure.</p>
+</div>
+<div style="width: 810px" class="wp-caption aligncenter"><a href="https://lh3.googleusercontent.com/-JkcN--fGQW0/WNGD4fK51sI/AAAAAAAA0ns/jruXpvlS2eAE3dL9Oq_VhYHrsqe8ZwPnQCHM/s0/IMG_20170318_105548.jpg" link="https://picasaweb.google.com/102164334047255333030/6379671840151154689#6400041551933331138" data-slb-group="4468" data-slb-active="1"><img class="aligncenter" src="https://lh3.googleusercontent.com/-JkcN--fGQW0/WNGD4fK51sI/AAAAAAAA0ns/jruXpvlS2eAE3dL9Oq_VhYHrsqe8ZwPnQCHM/s800/IMG_20170318_105548.jpg" alt="Undeva intre pantofari si trail-runneri."  /></a>
+<p class="wp-caption-text">Undeva intre pantofari si trail-runneri.</p>
+</div>
+<div style="width: 810px" class="wp-caption aligncenter"><a href="https://lh3.googleusercontent.com/-vInLQoJ5qw0/WNGD4cimCmI/AAAAAAAA0ns/9SFKq30bSyY3RHJ8AUn4bzzWs9vsDDkfQCHM/s0/IMG_20170318_110718.jpg" link="https://picasaweb.google.com/102164334047255333030/6379671840151154689#6400041551227390562" data-slb-group="4468" data-slb-active="1"><img class="aligncenter" src="https://lh3.googleusercontent.com/-vInLQoJ5qw0/WNGD4cimCmI/AAAAAAAA0ns/9SFKq30bSyY3RHJ8AUn4bzzWs9vsDDkfQCHM/s800/IMG_20170318_110718.jpg" alt="Momentul potrivit in locul potrivit."  /></a>
+<p class="wp-caption-text">Momentul potrivit in locul potrivit.</p>
+</div>
+<div style="width: 810px" class="wp-caption aligncenter"><a href="https://lh3.googleusercontent.com/-rOsUEDllL8Y/WNGD4VWF4cI/AAAAAAAA0ns/w5dmjzxz1j0bAuu7C2EQJq2UkF9GR6FCgCHM/s0/IMG_20170318_110930.jpg" link="https://picasaweb.google.com/102164334047255333030/6379671840151154689#6400041549295903170" data-slb-group="4468" data-slb-active="1"><img class="aligncenter" src="https://lh3.googleusercontent.com/-rOsUEDllL8Y/WNGD4VWF4cI/AAAAAAAA0ns/w5dmjzxz1j0bAuu7C2EQJq2UkF9GR6FCgCHM/s800/IMG_20170318_110930.jpg" alt="Ultimele momente de soare pe ziua de azi."  /></a>
+<p class="wp-caption-text">Ultimele momente de soare pe ziua de azi.</p>
+</div>
+<p><a href="https://lh3.googleusercontent.com/-kb_mvo7GbLE/WNGD4WZvKKI/AAAAAAAA0ns/TS1kfA0B5EwBaArIiX_95NBKWgFKK96VACHM/s0/IMG_20170318_110958.jpg" link="https://picasaweb.google.com/102164334047255333030/6379671840151154689#6400041549579626658" data-slb-group="4468" data-slb-active="1"><img class="aligncenter" src="https://lh3.googleusercontent.com/-kb_mvo7GbLE/WNGD4WZvKKI/AAAAAAAA0ns/TS1kfA0B5EwBaArIiX_95NBKWgFKK96VACHM/s800/IMG_20170318_110958.jpg" alt="IMG_20170318_110958.jpg"  /></a> </p>
+<div style="width: 810px" class="wp-caption aligncenter"><a href="https://lh3.googleusercontent.com/-K31NFJMGw2A/WNGD4WtvHSI/AAAAAAAA0ns/bfAiJWyw1D8kZ3p8pXQXyeSnhmf8zkrTACHM/s0/IMG_20170318_130422.jpg" link="https://picasaweb.google.com/102164334047255333030/6379671840151154689#6400041549663509794" data-slb-group="4468" data-slb-active="1"><img class="aligncenter" src="https://lh3.googleusercontent.com/-K31NFJMGw2A/WNGD4WtvHSI/AAAAAAAA0ns/bfAiJWyw1D8kZ3p8pXQXyeSnhmf8zkrTACHM/s800/IMG_20170318_130422.jpg" alt="Burzuluirea vremii si alergatori care isi intra din ce in ce mai bine in pielea de pantofari."  /></a>
+<p class="wp-caption-text">Burzuluirea vremii si alergatori care isi intra din ce in ce mai bine in pielea de pantofari.</p>
+</div>
+<div style="width: 810px" class="wp-caption aligncenter"><a href="https://lh3.googleusercontent.com/-UfeNnxht8Fg/WNGD4QOdeaI/AAAAAAAA0ns/Dt8XKrmNOxsurfPkpHQbTdwLK7QXXWLUwCHM/s0/IMG_20170318_131911.jpg" link="https://picasaweb.google.com/102164334047255333030/6379671840151154689#6400041547921717666" data-slb-group="4468" data-slb-active="1"><img class="aligncenter" src="https://lh3.googleusercontent.com/-UfeNnxht8Fg/WNGD4QOdeaI/AAAAAAAA0ns/Dt8XKrmNOxsurfPkpHQbTdwLK7QXXWLUwCHM/s800/IMG_20170318_131911.jpg" alt="Intalnirea cu runda a doua de alergareti nu foarte matinali."  /></a>
+<p class="wp-caption-text">Intalnirea cu runda a doua de alergareti nu foarte matinali.</p>
+</div>
+<div style="width: 810px" class="wp-caption aligncenter"><a href="https://lh3.googleusercontent.com/-rEbriPW4Nek/WNGD-L-3ZkI/AAAAAAAA0ns/jtVjIerm6HgXGjm1kM6My--YnBvWV81xwCHM/s0/IMG_20170319_121042.jpg" link="https://picasaweb.google.com/102164334047255333030/6379671840151154689#6400041649861781058" data-slb-group="4468" data-slb-active="1"><img class="aligncenter" src="https://lh3.googleusercontent.com/-rEbriPW4Nek/WNGD-L-3ZkI/AAAAAAAA0ns/jtVjIerm6HgXGjm1kM6My--YnBvWV81xwCHM/s800/IMG_20170319_121042.jpg" alt="Soare, vreme buna si catarari interesante pe dealurile prahovene."  /></a>
+<p class="wp-caption-text">Soare, vreme buna si catarari interesante pe dealurile prahovene.</p>
+</div>
+<div style="width: 810px" class="wp-caption aligncenter"><a href="https://lh3.googleusercontent.com/-tp7ob4XxRfU/WNGD-K7fFzI/AAAAAAAA0ns/L6Rr-HUg7e0BmBP1lWaeZpFMIIMP9vCNgCHM/s0/IMG_20170319_131717.jpg" link="https://picasaweb.google.com/102164334047255333030/6379671840151154689#6400041649579169586" data-slb-group="4468" data-slb-active="1"><img class="aligncenter" src="https://lh3.googleusercontent.com/-tp7ob4XxRfU/WNGD-K7fFzI/AAAAAAAA0ns/L6Rr-HUg7e0BmBP1lWaeZpFMIIMP9vCNgCHM/s800/IMG_20170319_131717.jpg" alt="Norul amenintator pe care am reusit sa-l fentam cu brio."  /></a>
+<p class="wp-caption-text">Norul amenintator pe care am reusit sa-l fentam cu brio.</p>
+</div>
+<div style="width: 810px" class="wp-caption aligncenter"><a href="https://lh3.googleusercontent.com/-lGH_q_8gpfg/WNGD-Bjj7PI/AAAAAAAA0ns/k0gjRZLiAkErc-bMXRxZ5SbEDaI6ZBwjQCHM/s0/IMG_20170319_141810.jpg" link="https://picasaweb.google.com/102164334047255333030/6379671840151154689#6400041647062904050" data-slb-group="4468" data-slb-active="1"><img class="aligncenter" src="https://lh3.googleusercontent.com/-lGH_q_8gpfg/WNGD-Bjj7PI/AAAAAAAA0ns/k0gjRZLiAkErc-bMXRxZ5SbEDaI6ZBwjQCHM/s800/IMG_20170319_141810.jpg" alt="La sfarsitul urcarii de la Ciolanu, una din cele mai faine din Buzau."  /></a>
+<p class="wp-caption-text">La sfarsitul urcarii de la Ciolanu, una din cele mai faine din Buzau.</p>
+</div>
+<div style="width: 810px" class="wp-caption aligncenter"><a href="https://lh3.googleusercontent.com/-_7D6_Y0VzRo/WNGD-PbzPQI/AAAAAAAA0ns/ZtUCRAtEKrY-KQ76oyAQTSbmVdwO2mf8ACHM/s0/IMG_20170319_144240.jpg" link="https://picasaweb.google.com/102164334047255333030/6379671840151154689#6400041650788449538" data-slb-group="4468" data-slb-active="1"><img class="aligncenter" src="https://lh3.googleusercontent.com/-_7D6_Y0VzRo/WNGD-PbzPQI/AAAAAAAA0ns/ZtUCRAtEKrY-KQ76oyAQTSbmVdwO2mf8ACHM/s800/IMG_20170319_144240.jpg" alt="Pauza de masa, cu tocana de legume, napolitane si binenteles cola."  /></a>
+<p class="wp-caption-text">Pauza de masa, cu tocana de legume, napolitane si binenteles cola.</p>
+</div>
+<div style="width: 810px" class="wp-caption aligncenter"><a href="https://lh3.googleusercontent.com/-12t3Ko3kdX8/WNGD-PIk3fI/AAAAAAAA0ns/GivExJp00EsQpTBLr-KtaWvmcr_lrUl9gCHM/s0/IMG_20170319_151625.jpg" link="https://picasaweb.google.com/102164334047255333030/6379671840151154689#6400041650707815922" data-slb-group="4468" data-slb-active="1"><img class="aligncenter" src="https://lh3.googleusercontent.com/-12t3Ko3kdX8/WNGD-PIk3fI/AAAAAAAA0ns/GivExJp00EsQpTBLr-KtaWvmcr_lrUl9gCHM/s800/IMG_20170319_151625.jpg" alt="Drum intins."  /></a>
+<p class="wp-caption-text">Drum intins.</p>
+</div>
+<div style="width: 810px" class="wp-caption aligncenter"><a href="https://lh3.googleusercontent.com/-yS3oP_to36Y/WNGD-MOKM9I/AAAAAAAA0ns/gLoPO-EvaHQ371ZYmR6ExPgKPNRpNI9XACHM/s0/IMG_20170319_154308.jpg" link="https://picasaweb.google.com/102164334047255333030/6379671840151154689#6400041649925927890" data-slb-group="4468" data-slb-active="1"><img class="aligncenter" src="https://lh3.googleusercontent.com/-yS3oP_to36Y/WNGD-MOKM9I/AAAAAAAA0ns/gLoPO-EvaHQ371ZYmR6ExPgKPNRpNI9XACHM/s800/IMG_20170319_154308.jpg" alt="Dezbandant ruta, varianta lunga vs varianta macetelor de la Sangeru."  /></a>
+<p class="wp-caption-text">Dezbandant ruta, varianta lunga vs varianta macetelor de la Sangeru.</p>
+</div>
+<div style="width: 810px" class="wp-caption aligncenter"><a href="https://lh3.googleusercontent.com/-fqq2ga8R4Dc/WNGD-INWVAI/AAAAAAAA0ns/1c4RUuh5mgYfHPNaKTfbksDJrp8PEhgZQCHM/s0/IMG_20170319_171825.jpg" link="https://picasaweb.google.com/102164334047255333030/6379671840151154689#6400041648848786434" data-slb-group="4468" data-slb-active="1"><img class="aligncenter" src="https://lh3.googleusercontent.com/-fqq2ga8R4Dc/WNGD-INWVAI/AAAAAAAA0ns/1c4RUuh5mgYfHPNaKTfbksDJrp8PEhgZQCHM/s800/IMG_20170319_171825.jpg" alt="Portret de ciclist la pauza de masa de birtul comunal. Poza facut cu un Huawei P9, un telefon care mi se pare ca isi face foarte bine treaba atunci nu vrei sa cari kilograme in spate."  /></a>
+<p class="wp-caption-text">Portret de ciclist la pauza de masa de birtul comunal. Poza facut cu un Huawei P9, un telefon care mi se pare ca isi face foarte bine treaba atunci nu vrei sa cari kilograme in spate.</p>
+</div>
+<p class="clear">
+<p class="clear">
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="social_buttons"> <!-- Social buttons -->
+        <!-- facebook like button -->
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=1380479268860167";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+
+        <div class="fb-like" data-href="http://www.diaconescuradu.com/contraatacul-babelor-alergare-si-bicicleta-intr-un-weekend-ploios" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+
+       <!-- Facebook -->
+        <!--div class="fb-like" data-href="http://www.diaconescuradu.com/contraatacul-babelor-alergare-si-bicicleta-intr-un-weekend-ploios" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="true" data-send="false"></div-->
+        <!-- Google plus button -->
+
+        <!-- Place this tag where you want the +1 button to render. -->
+        <div class="my_google_style g-plusone" data-size="medium"></div>
+
+        <!-- Place this tag after the last +1 button tag. -->
+        <script type="text/javascript">
+          (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+          })();
+        </script>
+        
+        <!-- Twitter -->
+
+        <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    </div>
+                    <!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="//diaconescuradu.us11.list-manage.com/subscribe/post?u=1e6b779ca548514417d6f6d3f&amp;id=2f0040a1cf" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+    <h5>Pentru noutati din calatorii si pentru idei de aventuri mail-ul ramane cea mai sigura varianta.</h5>
+<div class="mc-field-group">
+    <input type="email" value="Scrie aici adresa ta de email" name="EMAIL" class="required email" id="mce-EMAIL" onblur="if (this.value == '') {this.value = 
+
+'Scrie aici adresa ta de email';}" onfocus="if (this.value == 'Scrie aici adresa ta de email') {this.value = '';}">
+</div>
+    <div id="mce-responses" class="clear">
+        <div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
+    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_1e6b779ca548514417d6f6d3f_2f0040a1cf" tabindex="-1" value=""></div>
+        <div class="clear"><input type="submit" value="Aboneaza-te" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+                   <div class="horizontalRule site_content"></div>
+                	<nav class="navigation paging-navigation" role="navigation">
+		<h1 class="screen-reader-text">Post navigation</h1>
+		<div class="nav-links-wide">
+
+		    <div class="nav-previous">
+            <a href="http://www.diaconescuradu.com/prahova-deluxe-2500-din-nou-pe-cursiera-pe-dealurile-prahovene" rel="prev"><span class="meta-nav">&larr;</span> Prahova Deluxe 2500, din nou pe cursiera pe dealurile Prahovene</a>            </div>
+		    <div class="nav-next">
+			<a href="http://www.diaconescuradu.com/pe-sudica-craiului-in-conditii-de-vara-si-cu-invazia-branduselor" rel="next">Pe Sudica Craiului in conditii de vara si invazia branduselor <span class="meta-nav">&rarr;</span></a>            </div>
+
+		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	                <div class="horizontalRule site_content"></div>
+                <i><h3 class="text-center box-title">Postari similare</h3></i>
+                <div class="tile_cont site_content" id="img_container">
+            <div class="tile_img_container"><a href="http://www.diaconescuradu.com/ski-la-sinaia-si-catarare-in-macin" ><img width="395" height="296" src="http://www.diaconescuradu.com/wp-content/uploads/2009/03/poze-049-395x296.jpg" class="attachment-medium wp-post-image" alt="Ski valea Dorului" /></a>
+            <a class="no_decoration" href="http://www.diaconescuradu.com/ski-la-sinaia-si-catarare-in-macin" ><h5 class="small_margin">Ski la Sinaia</h5></a>            <div class="entry-meta">
+                <span class="date"><a href="http://www.diaconescuradu.com/ski-la-sinaia-si-catarare-in-macin" title="Permalink to Ski la Sinaia" rel="bookmark"><time class="entry-date" datetime="2009-03-26T20:02:00+00:00">March 26, 2009</time></a></span><span class="categories-links"><a href="http://www.diaconescuradu.com/category/bucegi" rel="category tag">Bucegi</a>, <a href="http://www.diaconescuradu.com/category/interesant-si-provocator" rel="category tag">Interesant</a>, <a href="http://www.diaconescuradu.com/category/schi-de-partie" rel="category tag">Schi de partie</a>, <a href="http://www.diaconescuradu.com/category/ski" rel="category tag">Ski</a></span><span class="author vcard"><a class="url fn n" href="http://www.diaconescuradu.com/author/radi" title="View all posts by Diaconescu Radu" rel="author">Diaconescu Radu</a></span>                            </div><!-- .entry-meta -->
+            <div class="entry-summary">
+                <p>Echipa: eu, mike, bogdan si lucian. Din nou o iesire la munte in timpul saptamanii, de data aceasta cu zapada din plin, cam de toate felurile pe langa partie si numai buna pe partie. Am fost ceva cam lenesi si ne-am dat pe valea Dorului, oarecum speriati de cat am fi stat la coada la [&hellip;]</p>
+            </div><!-- .entry-summary -->
+
+            </div>
+   
+            <div class="tile_img_container"><a href="http://www.diaconescuradu.com/fisura-suspendata-din-nou" ><div class="placeholder"></div></a>
+            <a class="no_decoration" href="http://www.diaconescuradu.com/fisura-suspendata-din-nou" ><h5 class="small_margin">Fisura Suspendata&#8230; din nou&#8230;</h5></a>            <div class="entry-meta">
+                <span class="date"><a href="http://www.diaconescuradu.com/fisura-suspendata-din-nou" title="Permalink to Fisura Suspendata&#8230; din nou&#8230;" rel="bookmark"><time class="entry-date" datetime="2008-10-19T19:07:00+00:00">October 19, 2008</time></a></span><span class="categories-links"><a href="http://www.diaconescuradu.com/category/alpinism" rel="category tag">Alpinism</a>, <a href="http://www.diaconescuradu.com/category/bucegi" rel="category tag">Bucegi</a></span><span class="author vcard"><a class="url fn n" href="http://www.diaconescuradu.com/author/radi" title="View all posts by Diaconescu Radu" rel="author">Diaconescu Radu</a></span>                            </div><!-- .entry-meta -->
+            <div class="entry-summary">
+                <p>Plecam tarziu din Bucuresti, plec impreuna cu Catalin si Ciprian care ma lasa in Busteni si continua spre Cheile Rasnoavei si ma intalnesc cu Victor pe la 10 la caminul alpin. Planul era cam la limita, 2h30 pana la intrarea in traseu, 4h pe traseu, 1h30 coboratul pana la refugiu, 1h pana inapoi la caminul [&hellip;]</p>
+            </div><!-- .entry-summary -->
+
+            </div>
+   
+            <div class="tile_img_container"><a href="http://www.diaconescuradu.com/padina-la-un-curs-de-prim-ajutor" ><img width="395" height="264" src="http://www.diaconescuradu.com/wp-content/uploads/2010/12/DSC_6573-395x264.jpg" class="attachment-medium wp-post-image" alt="Plaiul lui Pacala" /></a>
+            <a class="no_decoration" href="http://www.diaconescuradu.com/padina-la-un-curs-de-prim-ajutor" ><h5 class="small_margin">Padina, la un curs de prim-ajutor</h5></a>            <div class="entry-meta">
+                <span class="date"><a href="http://www.diaconescuradu.com/padina-la-un-curs-de-prim-ajutor" title="Permalink to Padina, la un curs de prim-ajutor" rel="bookmark"><time class="entry-date" datetime="2010-12-12T20:52:00+00:00">December 12, 2010</time></a></span><span class="categories-links"><a href="http://www.diaconescuradu.com/category/bucegi" rel="category tag">Bucegi</a>, <a href="http://www.diaconescuradu.com/category/drumetii" rel="category tag">Drumetii</a>, <a href="http://www.diaconescuradu.com/category/interesant-si-provocator" rel="category tag">Interesant</a></span><span class="author vcard"><a class="url fn n" href="http://www.diaconescuradu.com/author/radi" title="View all posts by Diaconescu Radu" rel="author">Diaconescu Radu</a></span>                            </div><!-- .entry-meta -->
+            <div class="entry-summary">
+                <p>Desi Mihaela stia de ceva vreme ca weekend-ul acesta la un curs de prim-ajutor tinut de oamenii de la Salvamont Busteni la Padina, in schimb eu nu eram deloc hotarat ce voi face weekend-ul acesta. Pe de o parte am tot sperat la o noua ninsoare care sa ne lase sa mai mergem cu schiurile, [&hellip;]</p>
+            </div><!-- .entry-summary -->
+
+            </div>
+   </div><!-- end of .col-940 -->                
+<div id="comments" class="comments-area">
+
+			<h2 class="comments-title">
+			One thought on &ldquo;<span>Contraatacul babelor, alergare si bicicleta intr-un weekend ploios</span>&rdquo;		</h2>
+
+		<ol class="comment-list">
+					<li id="comment-70918" class="comment even thread-even depth-1">
+			<article id="div-comment-70918" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://0.gravatar.com/avatar/3c8861a541fc4e3330e3b65373de7934?s=74&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/3c8861a541fc4e3330e3b65373de7934?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">Zaraza Catarig</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.diaconescuradu.com/contraatacul-babelor-alergare-si-bicicleta-intr-un-weekend-ploios#comment-70918">
+							<time datetime="2017-03-22T09:31:48+00:00">
+								March 22, 2017 at 9:31 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Intr-adevar faina poza ultima (si nu numai), am postat articolul pe facebook cu poza amintita! <img src="http://www.diaconescuradu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a class='comment-reply-link' href='/contraatacul-babelor-alergare-si-bicicleta-intr-un-weekend-ploios?replytocom=70918#respond' onclick='return addComment.moveForm( "div-comment-70918", "70918", "respond", "4468" )' aria-label='Reply to Zaraza Catarig'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+		
+		
+	
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/contraatacul-babelor-alergare-si-bicicleta-intr-un-weekend-ploios#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://www.diaconescuradu.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+																			<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-describedby="form-allowed-tags" aria-required="true" required="required"></textarea></p>						<p class="form-allowed-tags" id="form-allowed-tags">You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; </code></p>
+						<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='4468' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="63f0acf7a1" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="26"/></p>        
+        <input type="hidden" name="icl_comment_language" value="ro" />
+        
+          
+        					</form>
+							</div><!-- #respond -->
+			
+</div><!-- #comments -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+
+		</div><!-- #main -->
+		<footer id="colophon" class="site-footer" role="contentinfo">
+            <!-- removing the sidebar for now -->
+			<!--?php get_sidebar( 'main' ); ?-->
+            <div class="footer-space">
+                <div class="footer-container">
+                    <div class="follow float-left">
+                        <h4> Urmareste pe</h4>
+                        <!-- facebook page -->
+                        <div class="facebook-twitter float-left">
+                            <script>(function(d, s, id) {
+                              var js, fjs = d.getElementsByTagName(s)[0];
+                              if (d.getElementById(id)) return;
+                              js = d.createElement(s); js.id = id;
+                              js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+                              fjs.parentNode.insertBefore(js, fjs);
+                            }(document, 'script', 'facebook-jssdk'));</script>
+
+                            <div class="fb-like-box" data-href="https://www.facebook.com/pages/Diaconescu-Radu-Blog/221072178016386" data-width="280" data-colorscheme="dark" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div>
+                            
+                            <!-- Place this tag where you want the widget to render. -->
+                            <div class="g-page" data-width="280" data-href="//plus.google.com/112005024431275689015" data-theme="dark" data-layout="landscape" data-rel="publisher"></div>
+
+                            <!-- Place this tag after the last widget tag. -->
+                            <script type="text/javascript">
+                              (function() {
+                                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                                po.src = 'https://apis.google.com/js/platform.js';
+                                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                              })();
+                            </script>
+
+                            <div class="twitter-follow">
+                                <!-- twitter follow -->
+                                <a href="https://twitter.com/diaconescu_radu" class="twitter-follow-button" data-show-count="false" data-lang="en" data-size="large">Follow @twitterapi</a>
+                                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+                            </div>
+
+
+                        </div>
+                </div><!-- footer container-->
+                <div class="sponsors float-left">
+                   <h4> Sustinut de</h4>
+                   <div class="real-sponsors">
+                       <div class="site_content inline_block">
+                            <div class="sponsor polartec-logo">
+                                <a href="http://polartec.com/">
+                                    <img src="http://www.diaconescuradu.com/wp-content/uploads/sponsors/Polartec_Logo_Black.jpg">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="site_content inline_block">
+                            <div class="sponsor decathlon-logo">
+                                <a href="http://www.decathlon.ro/">
+                                    <img src="http://www.diaconescuradu.com/wp-content/uploads/sponsors/decathlon.jpg">
+                                </a>
+                            </div>
+                        </div>
+                  </div><!--real-sponsors-->
+                   <div class="media-partners">
+                       <div class="inline_block">
+                            <div class="sponsor rra-logo">
+                                <a href="http://www.romania-actualitati.ro/">
+                                    <img src="http://www.diaconescuradu.com/wp-content/uploads/sponsors/radio-romania-actualitati.jpg">
+                                </a>
+                            </div>
+                        </div>
+                       <div class="inline_block">
+                            <div class="sponsor rfi-logo">
+                                <a href="http://www.rfi.ro/">
+                                    <img src="http://www.diaconescuradu.com/wp-content/uploads/sponsors/Logo_RFI.jpg">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="inline_block">
+                            <div class="sponsor gsp-logo">
+                                <a href="http://www.gsp.ro/">
+                                    <img src="http://www.diaconescuradu.com/wp-content/uploads/sponsors/gazeta-sporturilor.jpg">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="inline_block">
+                            <div class="sponsor discovery-logo">
+                                <a href="http://www.discovery.ro/">
+                                    <img src="http://www.diaconescuradu.com/wp-content/uploads/sponsors/Discovery+Channel-33874_500x200.png">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="inline_block">
+                            <div class="sponsor poza-mike-logo">
+                                <a href="http://amintiridinmunti.blogspot.de/">
+                                    <img src="http://www.diaconescuradu.com/wp-content/uploads/sponsors/poza_mike.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div><!-- media partners-->
+               </div>
+           </div>
+           <!-- copyright section -->
+           <div class="copyright">
+               <p> © Copyright 2008-2013 Diaconescu Radu.</p>
+           </div>
+ 		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<script type='text/javascript' src='http://www.diaconescuradu.com/wp-content/plugins/akismet/_inc/form.js?ver=3.1.1'></script>
+<script type='text/javascript' src='http://www.diaconescuradu.com/wp-content/plugins/simple-lightbox/client/js/lib.core.js?ver=2.0'></script>
+<script type='text/javascript' src='http://www.diaconescuradu.com/wp-content/plugins/simple-lightbox/client/js/lib.view.js?ver=2.0'></script>
+<script type='text/javascript' src='http://www.diaconescuradu.com/wp-includes/js/comment-reply.min.js?ver=4.2.13'></script>
+<script type='text/javascript' src='http://www.diaconescuradu.com/wp-includes/js/masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='http://www.diaconescuradu.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='http://www.diaconescuradu.com/wp-content/themes/twentythirteen/js/functions.js?ver=2013-07-18'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var icl_vars = {"current_language":"ro","icl_home":"http:\/\/www.diaconescuradu.com\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.diaconescuradu.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.2.13'></script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */(function($){$(document).ready(function(){if ( (typeof SLB != 'undefined') ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);/* ]]> */</script>
+
+<!-- SLB -->
+<script type="text/javascript" id="slb_init">/* <![CDATA[ */(function($){$(document).ready(function(){if ( (typeof SLB != 'undefined') && (typeof SLB.View != 'undefined') && (typeof SLB.View.init != 'undefined') ) { SLB.View.init({"ui_autofit":true,"ui_animate":true,"slideshow_autostart":false,"slideshow_duration":"6","group_loop":true,"ui_overlay_opacity":"0.8","theme_default":"slb_default","ui_labels":{"loading":"Loading","close":"Close","nav_next":"Next","nav_prev":"Previous","slideshow_start":"Start slideshow","slideshow_stop":"Stop slideshow","group_status":""}}); }})})(jQuery);/* ]]> */</script>
+<!-- /SLB -->
+<!-- SLB-THM -->
+<script type="text/javascript" id="slb_add_themes">/* <![CDATA[ */(function($){$(document).ready(function(){if ( (typeof SLB != 'undefined') && (typeof SLB.View != 'undefined') && (typeof SLB.View.add_theme != 'undefined') ) { SLB.View.add_theme('slb_default',{"name":"Default (Light)","parent":"","layout_uri":"http:\/\/www.diaconescuradu.com\/wp-content\/plugins\/simple-lightbox\/themes\/default\/layout.html","client_script":"http:\/\/www.diaconescuradu.com\/wp-content\/plugins\/simple-lightbox\/themes\/default\/client.js","client_style":"http:\/\/www.diaconescuradu.com\/wp-content\/plugins\/simple-lightbox\/themes\/default\/css\/style.css"}); }})})(jQuery);/* ]]> */</script>
+<!-- /SLB-THM -->
+<!-- SLB-TPTG -->
+<script type="text/javascript" id="slb_add_template_tags">/* <![CDATA[ */(function($){$(document).ready(function(){if ( (typeof SLB != 'undefined') && (typeof SLB.View != 'undefined') && (typeof SLB.View.add_template_tag_handler != 'undefined') ) { SLB.View.add_template_tag_handler('item','http://www.diaconescuradu.com/wp-content/plugins/simple-lightbox/template-tags/item/tag.item.js'); }if ( (typeof SLB != 'undefined') && (typeof SLB.View != 'undefined') && (typeof SLB.View.add_template_tag_handler != 'undefined') ) { SLB.View.add_template_tag_handler('ui','http://www.diaconescuradu.com/wp-content/plugins/simple-lightbox/template-tags/ui/tag.ui.js'); }})})(jQuery);/* ]]> */</script>
+<!-- /SLB-TPTG -->
+<!-- SLB-HDL -->
+<script type="text/javascript" id="slb_add_content_handlers">/* <![CDATA[ */(function($){$(document).ready(function(){if ( (typeof SLB != 'undefined') && (typeof SLB.View != 'undefined') && (typeof SLB.View.add_content_handler != 'undefined') ) { SLB.View.add_content_handler('image','http://www.diaconescuradu.com/wp-content/plugins/simple-lightbox/content-handlers/image/handler.image.js'); }})})(jQuery);/* ]]> */</script>
+<!-- /SLB-HDL -->
+<!-- X-M --><!-- SLB-M -->
+<script type="text/javascript" id="slb_footer">/* <![CDATA[ */(function($){$(document).ready(function(){if ( (typeof SLB != 'undefined') && (typeof SLB.View != 'undefined') && (typeof SLB.View.assets != 'undefined') ) { {$.extend(SLB.View.assets, {"https:\/\/lh3.googleusercontent.com\/-_NkOCzocOao\/WNGD4WAgaEI\/AAAAAAAA0ns\/QoCD8xhwi5k6VIzZNS2PF8csdHgHsC_UQCHM\/s0\/IMG_20170318_094738.jpg":{"type":"image","source":"https:\/\/lh3.googleusercontent.com\/-_NkOCzocOao\/WNGD4WAgaEI\/AAAAAAAA0ns\/QoCD8xhwi5k6VIzZNS2PF8csdHgHsC_UQCHM\/s0\/IMG_20170318_094738.jpg","internal":false,"id":null,"_entries":["https:\/\/lh3.googleusercontent.com\/-_NkOCzocOao\/WNGD4WAgaEI\/AAAAAAAA0ns\/QoCD8xhwi5k6VIzZNS2PF8csdHgHsC_UQCHM\/s0\/IMG_20170318_094738.jpg"]},"https:\/\/lh3.googleusercontent.com\/-1wUp901Uvoc\/WNGD4WHxlgI\/AAAAAAAA0ns\/lIlcCAWwR64RfUXSGSGxrQqyRjbDhla4QCHM\/s0\/IMG_20170318_105340.jpg":{"type":"image","source":"https:\/\/lh3.googleusercontent.com\/-1wUp901Uvoc\/WNGD4WHxlgI\/AAAAAAAA0ns\/lIlcCAWwR64RfUXSGSGxrQqyRjbDhla4QCHM\/s0\/IMG_20170318_105340.jpg","internal":false,"id":null,"_entries":["https:\/\/lh3.googleusercontent.com\/-1wUp901Uvoc\/WNGD4WHxlgI\/AAAAAAAA0ns\/lIlcCAWwR64RfUXSGSGxrQqyRjbDhla4QCHM\/s0\/IMG_20170318_105340.jpg"]},"https:\/\/lh3.googleusercontent.com\/-JkcN--fGQW0\/WNGD4fK51sI\/AAAAAAAA0ns\/jruXpvlS2eAE3dL9Oq_VhYHrsqe8ZwPnQCHM\/s0\/IMG_20170318_105548.jpg":{"type":"image","source":"https:\/\/lh3.googleusercontent.com\/-JkcN--fGQW0\/WNGD4fK51sI\/AAAAAAAA0ns\/jruXpvlS2eAE3dL9Oq_VhYHrsqe8ZwPnQCHM\/s0\/IMG_20170318_105548.jpg","internal":false,"id":null,"_entries":["https:\/\/lh3.googleusercontent.com\/-JkcN--fGQW0\/WNGD4fK51sI\/AAAAAAAA0ns\/jruXpvlS2eAE3dL9Oq_VhYHrsqe8ZwPnQCHM\/s0\/IMG_20170318_105548.jpg"]},"https:\/\/lh3.googleusercontent.com\/-vInLQoJ5qw0\/WNGD4cimCmI\/AAAAAAAA0ns\/9SFKq30bSyY3RHJ8AUn4bzzWs9vsDDkfQCHM\/s0\/IMG_20170318_110718.jpg":{"type":"image","source":"https:\/\/lh3.googleusercontent.com\/-vInLQoJ5qw0\/WNGD4cimCmI\/AAAAAAAA0ns\/9SFKq30bSyY3RHJ8AUn4bzzWs9vsDDkfQCHM\/s0\/IMG_20170318_110718.jpg","internal":false,"id":null,"_entries":["https:\/\/lh3.googleusercontent.com\/-vInLQoJ5qw0\/WNGD4cimCmI\/AAAAAAAA0ns\/9SFKq30bSyY3RHJ8AUn4bzzWs9vsDDkfQCHM\/s0\/IMG_20170318_110718.jpg"]},"https:\/\/lh3.googleusercontent.com\/-rOsUEDllL8Y\/WNGD4VWF4cI\/AAAAAAAA0ns\/w5dmjzxz1j0bAuu7C2EQJq2UkF9GR6FCgCHM\/s0\/IMG_20170318_110930.jpg":{"type":"image","source":"https:\/\/lh3.googleusercontent.com\/-rOsUEDllL8Y\/WNGD4VWF4cI\/AAAAAAAA0ns\/w5dmjzxz1j0bAuu7C2EQJq2UkF9GR6FCgCHM\/s0\/IMG_20170318_110930.jpg","internal":false,"id":null,"_entries":["https:\/\/lh3.googleusercontent.com\/-rOsUEDllL8Y\/WNGD4VWF4cI\/AAAAAAAA0ns\/w5dmjzxz1j0bAuu7C2EQJq2UkF9GR6FCgCHM\/s0\/IMG_20170318_110930.jpg"]},"https:\/\/lh3.googleusercontent.com\/-kb_mvo7GbLE\/WNGD4WZvKKI\/AAAAAAAA0ns\/TS1kfA0B5EwBaArIiX_95NBKWgFKK96VACHM\/s0\/IMG_20170318_110958.jpg":{"type":"image","source":"https:\/\/lh3.googleusercontent.com\/-kb_mvo7GbLE\/WNGD4WZvKKI\/AAAAAAAA0ns\/TS1kfA0B5EwBaArIiX_95NBKWgFKK96VACHM\/s0\/IMG_20170318_110958.jpg","internal":false,"id":null,"_entries":["https:\/\/lh3.googleusercontent.com\/-kb_mvo7GbLE\/WNGD4WZvKKI\/AAAAAAAA0ns\/TS1kfA0B5EwBaArIiX_95NBKWgFKK96VACHM\/s0\/IMG_20170318_110958.jpg"]},"https:\/\/lh3.googleusercontent.com\/-K31NFJMGw2A\/WNGD4WtvHSI\/AAAAAAAA0ns\/bfAiJWyw1D8kZ3p8pXQXyeSnhmf8zkrTACHM\/s0\/IMG_20170318_130422.jpg":{"type":"image","source":"https:\/\/lh3.googleusercontent.com\/-K31NFJMGw2A\/WNGD4WtvHSI\/AAAAAAAA0ns\/bfAiJWyw1D8kZ3p8pXQXyeSnhmf8zkrTACHM\/s0\/IMG_20170318_130422.jpg","internal":false,"id":null,"_entries":["https:\/\/lh3.googleusercontent.com\/-K31NFJMGw2A\/WNGD4WtvHSI\/AAAAAAAA0ns\/bfAiJWyw1D8kZ3p8pXQXyeSnhmf8zkrTACHM\/s0\/IMG_20170318_130422.jpg"]},"https:\/\/lh3.googleusercontent.com\/-UfeNnxht8Fg\/WNGD4QOdeaI\/AAAAAAAA0ns\/Dt8XKrmNOxsurfPkpHQbTdwLK7QXXWLUwCHM\/s0\/IMG_20170318_131911.jpg":{"type":"image","source":"https:\/\/lh3.googleusercontent.com\/-UfeNnxht8Fg\/WNGD4QOdeaI\/AAAAAAAA0ns\/Dt8XKrmNOxsurfPkpHQbTdwLK7QXXWLUwCHM\/s0\/IMG_20170318_131911.jpg","internal":false,"id":null,"_entries":["https:\/\/lh3.googleusercontent.com\/-UfeNnxht8Fg\/WNGD4QOdeaI\/AAAAAAAA0ns\/Dt8XKrmNOxsurfPkpHQbTdwLK7QXXWLUwCHM\/s0\/IMG_20170318_131911.jpg"]},"https:\/\/lh3.googleusercontent.com\/-rEbriPW4Nek\/WNGD-L-3ZkI\/AAAAAAAA0ns\/jtVjIerm6HgXGjm1kM6My--YnBvWV81xwCHM\/s0\/IMG_20170319_121042.jpg":{"type":"image","source":"https:\/\/lh3.googleusercontent.com\/-rEbriPW4Nek\/WNGD-L-3ZkI\/AAAAAAAA0ns\/jtVjIerm6HgXGjm1kM6My--YnBvWV81xwCHM\/s0\/IMG_20170319_121042.jpg","internal":false,"id":null,"_entries":["https:\/\/lh3.googleusercontent.com\/-rEbriPW4Nek\/WNGD-L-3ZkI\/AAAAAAAA0ns\/jtVjIerm6HgXGjm1kM6My--YnBvWV81xwCHM\/s0\/IMG_20170319_121042.jpg"]},"https:\/\/lh3.googleusercontent.com\/-tp7ob4XxRfU\/WNGD-K7fFzI\/AAAAAAAA0ns\/L6Rr-HUg7e0BmBP1lWaeZpFMIIMP9vCNgCHM\/s0\/IMG_20170319_131717.jpg":{"type":"image","source":"https:\/\/lh3.googleusercontent.com\/-tp7ob4XxRfU\/WNGD-K7fFzI\/AAAAAAAA0ns\/L6Rr-HUg7e0BmBP1lWaeZpFMIIMP9vCNgCHM\/s0\/IMG_20170319_131717.jpg","internal":false,"id":null,"_entries":["https:\/\/lh3.googleusercontent.com\/-tp7ob4XxRfU\/WNGD-K7fFzI\/AAAAAAAA0ns\/L6Rr-HUg7e0BmBP1lWaeZpFMIIMP9vCNgCHM\/s0\/IMG_20170319_131717.jpg"]},"https:\/\/lh3.googleusercontent.com\/-lGH_q_8gpfg\/WNGD-Bjj7PI\/AAAAAAAA0ns\/k0gjRZLiAkErc-bMXRxZ5SbEDaI6ZBwjQCHM\/s0\/IMG_20170319_141810.jpg":{"type":"image","source":"https:\/\/lh3.googleusercontent.com\/-lGH_q_8gpfg\/WNGD-Bjj7PI\/AAAAAAAA0ns\/k0gjRZLiAkErc-bMXRxZ5SbEDaI6ZBwjQCHM\/s0\/IMG_20170319_141810.jpg","internal":false,"id":null,"_entries":["https:\/\/lh3.googleusercontent.com\/-lGH_q_8gpfg\/WNGD-Bjj7PI\/AAAAAAAA0ns\/k0gjRZLiAkErc-bMXRxZ5SbEDaI6ZBwjQCHM\/s0\/IMG_20170319_141810.jpg"]},"https:\/\/lh3.googleusercontent.com\/-_7D6_Y0VzRo\/WNGD-PbzPQI\/AAAAAAAA0ns\/ZtUCRAtEKrY-KQ76oyAQTSbmVdwO2mf8ACHM\/s0\/IMG_20170319_144240.jpg":{"type":"image","source":"https:\/\/lh3.googleusercontent.com\/-_7D6_Y0VzRo\/WNGD-PbzPQI\/AAAAAAAA0ns\/ZtUCRAtEKrY-KQ76oyAQTSbmVdwO2mf8ACHM\/s0\/IMG_20170319_144240.jpg","internal":false,"id":null,"_entries":["https:\/\/lh3.googleusercontent.com\/-_7D6_Y0VzRo\/WNGD-PbzPQI\/AAAAAAAA0ns\/ZtUCRAtEKrY-KQ76oyAQTSbmVdwO2mf8ACHM\/s0\/IMG_20170319_144240.jpg"]},"https:\/\/lh3.googleusercontent.com\/-12t3Ko3kdX8\/WNGD-PIk3fI\/AAAAAAAA0ns\/GivExJp00EsQpTBLr-KtaWvmcr_lrUl9gCHM\/s0\/IMG_20170319_151625.jpg":{"type":"image","source":"https:\/\/lh3.googleusercontent.com\/-12t3Ko3kdX8\/WNGD-PIk3fI\/AAAAAAAA0ns\/GivExJp00EsQpTBLr-KtaWvmcr_lrUl9gCHM\/s0\/IMG_20170319_151625.jpg","internal":false,"id":null,"_entries":["https:\/\/lh3.googleusercontent.com\/-12t3Ko3kdX8\/WNGD-PIk3fI\/AAAAAAAA0ns\/GivExJp00EsQpTBLr-KtaWvmcr_lrUl9gCHM\/s0\/IMG_20170319_151625.jpg"]},"https:\/\/lh3.googleusercontent.com\/-yS3oP_to36Y\/WNGD-MOKM9I\/AAAAAAAA0ns\/gLoPO-EvaHQ371ZYmR6ExPgKPNRpNI9XACHM\/s0\/IMG_20170319_154308.jpg":{"type":"image","source":"https:\/\/lh3.googleusercontent.com\/-yS3oP_to36Y\/WNGD-MOKM9I\/AAAAAAAA0ns\/gLoPO-EvaHQ371ZYmR6ExPgKPNRpNI9XACHM\/s0\/IMG_20170319_154308.jpg","internal":false,"id":null,"_entries":["https:\/\/lh3.googleusercontent.com\/-yS3oP_to36Y\/WNGD-MOKM9I\/AAAAAAAA0ns\/gLoPO-EvaHQ371ZYmR6ExPgKPNRpNI9XACHM\/s0\/IMG_20170319_154308.jpg"]},"https:\/\/lh3.googleusercontent.com\/-fqq2ga8R4Dc\/WNGD-INWVAI\/AAAAAAAA0ns\/1c4RUuh5mgYfHPNaKTfbksDJrp8PEhgZQCHM\/s0\/IMG_20170319_171825.jpg":{"type":"image","source":"https:\/\/lh3.googleusercontent.com\/-fqq2ga8R4Dc\/WNGD-INWVAI\/AAAAAAAA0ns\/1c4RUuh5mgYfHPNaKTfbksDJrp8PEhgZQCHM\/s0\/IMG_20170319_171825.jpg","internal":false,"id":null,"_entries":["https:\/\/lh3.googleusercontent.com\/-fqq2ga8R4Dc\/WNGD-INWVAI\/AAAAAAAA0ns\/1c4RUuh5mgYfHPNaKTfbksDJrp8PEhgZQCHM\/s0\/IMG_20170319_171825.jpg"]},"http:\/\/3.bp.blogspot.com\/_BdYbcFFLSPs\/SdEpzOsD_DI\/AAAAAAAAA8A\/NuJp3aL7-nE\/s0\/poze+049-1024.jpg":{"type":"image","source":"http:\/\/3.bp.blogspot.com\/_BdYbcFFLSPs\/SdEpzOsD_DI\/AAAAAAAAA8A\/NuJp3aL7-nE\/s0\/poze+049-1024.jpg","internal":false,"id":null,"_entries":["http:\/\/3.bp.blogspot.com\/_BdYbcFFLSPs\/SdEpzOsD_DI\/AAAAAAAAA8A\/NuJp3aL7-nE\/s0\/poze+049-1024.jpg"]},"http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/SdEpzrrGy7I\/AAAAAAAAA8I\/BsZUU9BBy94\/s0\/poze+059-1024.jpg":{"type":"image","source":"http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/SdEpzrrGy7I\/AAAAAAAAA8I\/BsZUU9BBy94\/s0\/poze+059-1024.jpg","internal":false,"id":null,"_entries":["http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/SdEpzrrGy7I\/AAAAAAAAA8I\/BsZUU9BBy94\/s0\/poze+059-1024.jpg"]},"http:\/\/3.bp.blogspot.com\/_BdYbcFFLSPs\/SdEpzwUYqlI\/AAAAAAAAA8Q\/4JdeQ1M85VE\/s0\/poze+062-1024.jpg":{"type":"image","source":"http:\/\/3.bp.blogspot.com\/_BdYbcFFLSPs\/SdEpzwUYqlI\/AAAAAAAAA8Q\/4JdeQ1M85VE\/s0\/poze+062-1024.jpg","internal":false,"id":null,"_entries":["http:\/\/3.bp.blogspot.com\/_BdYbcFFLSPs\/SdEpzwUYqlI\/AAAAAAAAA8Q\/4JdeQ1M85VE\/s0\/poze+062-1024.jpg"]},"http:\/\/1.bp.blogspot.com\/_BdYbcFFLSPs\/SPuRmYy-CPI\/AAAAAAAAAaU\/BIpZL3oMTqA\/s0\/Image001.jpg":{"type":"image","source":"http:\/\/1.bp.blogspot.com\/_BdYbcFFLSPs\/SPuRmYy-CPI\/AAAAAAAAAaU\/BIpZL3oMTqA\/s0\/Image001.jpg","internal":false,"id":null,"_entries":["http:\/\/1.bp.blogspot.com\/_BdYbcFFLSPs\/SPuRmYy-CPI\/AAAAAAAAAaU\/BIpZL3oMTqA\/s0\/Image001.jpg"]},"http:\/\/2.bp.blogspot.com\/_BdYbcFFLSPs\/SPuRmp4ijDI\/AAAAAAAAAak\/H_hhkUjaFB0\/s0\/Image003.jpg":{"type":"image","source":"http:\/\/2.bp.blogspot.com\/_BdYbcFFLSPs\/SPuRmp4ijDI\/AAAAAAAAAak\/H_hhkUjaFB0\/s0\/Image003.jpg","internal":false,"id":null,"_entries":["http:\/\/2.bp.blogspot.com\/_BdYbcFFLSPs\/SPuRmp4ijDI\/AAAAAAAAAak\/H_hhkUjaFB0\/s0\/Image003.jpg"]},"http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/SPuR_HzWPgI\/AAAAAAAAAa8\/xT2po2Jzx4E\/s0\/Image004.jpg":{"type":"image","source":"http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/SPuR_HzWPgI\/AAAAAAAAAa8\/xT2po2Jzx4E\/s0\/Image004.jpg","internal":false,"id":null,"_entries":["http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/SPuR_HzWPgI\/AAAAAAAAAa8\/xT2po2Jzx4E\/s0\/Image004.jpg"]},"http:\/\/3.bp.blogspot.com\/_BdYbcFFLSPs\/SPuR_kVL3lI\/AAAAAAAAAbU\/A0YmI0YZODo\/s0\/Image008.jpg":{"type":"image","source":"http:\/\/3.bp.blogspot.com\/_BdYbcFFLSPs\/SPuR_kVL3lI\/AAAAAAAAAbU\/A0YmI0YZODo\/s0\/Image008.jpg","internal":false,"id":null,"_entries":["http:\/\/3.bp.blogspot.com\/_BdYbcFFLSPs\/SPuR_kVL3lI\/AAAAAAAAAbU\/A0YmI0YZODo\/s0\/Image008.jpg"]},"http:\/\/1.bp.blogspot.com\/_BdYbcFFLSPs\/SPuR_IsDGgI\/AAAAAAAAAbE\/NXiongWVQbY\/s0\/Image006.jpg":{"type":"image","source":"http:\/\/1.bp.blogspot.com\/_BdYbcFFLSPs\/SPuR_IsDGgI\/AAAAAAAAAbE\/NXiongWVQbY\/s0\/Image006.jpg","internal":false,"id":null,"_entries":["http:\/\/1.bp.blogspot.com\/_BdYbcFFLSPs\/SPuR_IsDGgI\/AAAAAAAAAbE\/NXiongWVQbY\/s0\/Image006.jpg"]},"http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/SPuSAC-68cI\/AAAAAAAAAbc\/MwIbCKYSdTQ\/s0\/Image009.jpg":{"type":"image","source":"http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/SPuSAC-68cI\/AAAAAAAAAbc\/MwIbCKYSdTQ\/s0\/Image009.jpg","internal":false,"id":null,"_entries":["http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/SPuSAC-68cI\/AAAAAAAAAbc\/MwIbCKYSdTQ\/s0\/Image009.jpg"]},"http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/SPuSbVwNqRI\/AAAAAAAAAbk\/AaYjA_LXZYU\/s0\/Image012.jpg":{"type":"image","source":"http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/SPuSbVwNqRI\/AAAAAAAAAbk\/AaYjA_LXZYU\/s0\/Image012.jpg","internal":false,"id":null,"_entries":["http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/SPuSbVwNqRI\/AAAAAAAAAbk\/AaYjA_LXZYU\/s0\/Image012.jpg"]},"http:\/\/1.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzF-VFgEI\/AAAAAAAAD5c\/Vi2MUVHTtiQ\/s1600\/IMG_0095.JPG":{"type":"image","source":"http:\/\/1.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzF-VFgEI\/AAAAAAAAD5c\/Vi2MUVHTtiQ\/s1600\/IMG_0095.JPG","internal":false,"id":null,"_entries":["http:\/\/1.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzF-VFgEI\/AAAAAAAAD5c\/Vi2MUVHTtiQ\/s1600\/IMG_0095.JPG"]},"http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzIEZLM7I\/AAAAAAAAD5k\/1g0KTlbjJ68\/s1600\/IMG_0120.JPG":{"type":"image","source":"http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzIEZLM7I\/AAAAAAAAD5k\/1g0KTlbjJ68\/s1600\/IMG_0120.JPG","internal":false,"id":null,"_entries":["http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzIEZLM7I\/AAAAAAAAD5k\/1g0KTlbjJ68\/s1600\/IMG_0120.JPG"]},"http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzLas461I\/AAAAAAAAD50\/zOKj3hbBdi0\/s1600\/IMG_0143.JPG":{"type":"image","source":"http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzLas461I\/AAAAAAAAD50\/zOKj3hbBdi0\/s1600\/IMG_0143.JPG","internal":false,"id":null,"_entries":["http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzLas461I\/AAAAAAAAD50\/zOKj3hbBdi0\/s1600\/IMG_0143.JPG"]},"http:\/\/2.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzN551TtI\/AAAAAAAAD6A\/hpg6HRnpMfU\/s1600\/IMG_0161.JPG":{"type":"image","source":"http:\/\/2.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzN551TtI\/AAAAAAAAD6A\/hpg6HRnpMfU\/s1600\/IMG_0161.JPG","internal":false,"id":null,"_entries":["http:\/\/2.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzN551TtI\/AAAAAAAAD6A\/hpg6HRnpMfU\/s1600\/IMG_0161.JPG"]},"http:\/\/3.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzUKKrI3I\/AAAAAAAAD6Y\/ixVWfhaYqzw\/s1600\/IMG_0203.JPG":{"type":"image","source":"http:\/\/3.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzUKKrI3I\/AAAAAAAAD6Y\/ixVWfhaYqzw\/s1600\/IMG_0203.JPG","internal":false,"id":null,"_entries":["http:\/\/3.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzUKKrI3I\/AAAAAAAAD6Y\/ixVWfhaYqzw\/s1600\/IMG_0203.JPG"]},"http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzYOymdQI\/AAAAAAAAD6s\/5cpOi5a5sCE\/s1600\/IMG_0236.JPG":{"type":"image","source":"http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzYOymdQI\/AAAAAAAAD6s\/5cpOi5a5sCE\/s1600\/IMG_0236.JPG","internal":false,"id":null,"_entries":["http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzYOymdQI\/AAAAAAAAD6s\/5cpOi5a5sCE\/s1600\/IMG_0236.JPG"]},"http:\/\/1.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzl_Qp-rI\/AAAAAAAAD7g\/mfYMrH6YHV8\/s1600\/DSC_6556.jpg":{"type":"image","source":"http:\/\/1.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzl_Qp-rI\/AAAAAAAAD7g\/mfYMrH6YHV8\/s1600\/DSC_6556.jpg","internal":false,"id":null,"_entries":["http:\/\/1.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzl_Qp-rI\/AAAAAAAAD7g\/mfYMrH6YHV8\/s1600\/DSC_6556.jpg"]},"http:\/\/2.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzmlY-KYI\/AAAAAAAAD7k\/QPgXT6lzk6w\/s1600\/DSC_6573.jpg":{"type":"image","source":"http:\/\/2.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzmlY-KYI\/AAAAAAAAD7k\/QPgXT6lzk6w\/s1600\/DSC_6573.jpg","internal":false,"id":null,"_entries":["http:\/\/2.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzmlY-KYI\/AAAAAAAAD7k\/QPgXT6lzk6w\/s1600\/DSC_6573.jpg"]},"http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/TQUznW536OI\/AAAAAAAAD7s\/bOz3Pqo3kkg\/s1600\/DSC_6624.jpg":{"type":"image","source":"http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/TQUznW536OI\/AAAAAAAAD7s\/bOz3Pqo3kkg\/s1600\/DSC_6624.jpg","internal":false,"id":null,"_entries":["http:\/\/4.bp.blogspot.com\/_BdYbcFFLSPs\/TQUznW536OI\/AAAAAAAAD7s\/bOz3Pqo3kkg\/s1600\/DSC_6624.jpg"]},"http:\/\/1.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzj8RPSzI\/AAAAAAAAD7Y\/EW57a5sBDlI\/s1600\/DSC_6532.jpg":{"type":"image","source":"http:\/\/1.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzj8RPSzI\/AAAAAAAAD7Y\/EW57a5sBDlI\/s1600\/DSC_6532.jpg","internal":false,"id":null,"_entries":["http:\/\/1.bp.blogspot.com\/_BdYbcFFLSPs\/TQUzj8RPSzI\/AAAAAAAAD7Y\/EW57a5sBDlI\/s1600\/DSC_6532.jpg"]}});} }})})(jQuery);/* ]]> */</script>
+
+<!-- /SLB-M -->
+<!-- google analytics script -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44934617-1', 'diaconescuradu.com');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.474 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-04-04 19:29:07 -->
+
+<!-- super cache -->
