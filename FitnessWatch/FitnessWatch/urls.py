@@ -22,5 +22,6 @@ from django.urls.conf import re_path
 urlpatterns = [
     url('admin/', admin.site.urls),
     url(r'^boards/(?P<pk>\d+)/$', views.board_topics, name='board_topics'),
+    url(r'^boards/(?P<pk>\d+)/new$', views.new_topic, name='new_topic'),
     url(r'^boards/$', views.boards, name = 'boards'),
 ]
