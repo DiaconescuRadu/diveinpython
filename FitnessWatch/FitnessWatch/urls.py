@@ -16,12 +16,14 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from django.conf.urls import url
-from boards import views
+from boards import views as board_views
+from accounts import views as accounts_views
 from django.urls.conf import re_path
 
 urlpatterns = [
     url('admin/', admin.site.urls),
-    url(r'^boards/(?P<pk>\d+)/$', views.board_topics, name='board_topics'),
-    url(r'^boards/(?P<pk>\d+)/new$', views.new_topic, name='new_topic'),
-    url(r'^boards/$', views.boards, name = 'boards'),
+    url(r'^signup/$', accounts_views.signup, name='signup'),
+    url(r'^boards/(?P<pk>\d+)/$', board_views.board_topics, name='board_topics'),
+    url(r'^boards/(?P<pk>\d+)/new$', board_views.new_topic, name='new_topic'),
+    url(r'^boards/$', board_views.boards, name = 'boards'),
 ]
