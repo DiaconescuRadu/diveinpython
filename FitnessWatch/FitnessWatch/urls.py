@@ -18,11 +18,14 @@ from django.urls import path
 from django.conf.urls import url
 from boards import views as board_views
 from accounts import views as accounts_views
+from django.contrib.auth import views as auth_views
 from django.urls.conf import re_path
 
 urlpatterns = [
     url('admin/', admin.site.urls),
     url(r'^signup/$', accounts_views.signup, name='signup'),
+    url(r'^login/$', auth_views.LoginView.as_view(template_name='login.html'), name='login'),
+    url(r'^logout/$', auth_views.LogoutView.as_view(), name='logout'),
     url(r'^boards/(?P<pk>\d+)/$', board_views.board_topics, name='board_topics'),
     url(r'^boards/(?P<pk>\d+)/new$', board_views.new_topic, name='new_topic'),
     url(r'^boards/$', board_views.boards, name = 'boards'),

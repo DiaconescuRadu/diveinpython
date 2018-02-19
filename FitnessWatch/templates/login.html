@@ -9,11 +9,11 @@
             <form method="post" novalidate>
               {% csrf_token %}
               {% include 'includes/form.html' %}
-              <button type="submit" class="btn btn-primary btn-block">Create an account/button>
+              <button type="submit" class="btn btn-primary btn-block">Log in</button>
             </form>
           </div>
           <div class="card-footer text-muted text-center">
-            Aldeady have an account? <a href="{% url 'login' %}">Log in</a>
+            New to Django Boards? <a href="{% url 'signup' %}">Sign up</a>
           </div>
         </div>
         <div class="text-center py-2">
