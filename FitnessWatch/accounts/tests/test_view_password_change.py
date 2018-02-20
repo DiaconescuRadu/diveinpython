@@ -42,7 +42,7 @@ class LoginRequiredPasswordChangeTests(TestCase):
         url = reverse('password_change')
         login_url = reverse('login')
         response = self.client.get(url)
-        self.assertRedirects(response, f'{login_url}?next={url}')
+        self.assertRedirects(response, '{}?next={}'.format(login_url, url))
 
 
 class PasswordChangeTestCase(TestCase):
@@ -84,7 +84,7 @@ class SuccessfulPasswordChangeTests(PasswordChangeTestCase):
         Create a new request to an arbitrary page.
         The resulting response should now have an `user` to its context, after a successful sign up.
         '''
-        response = self.client.get(reverse('home'))
+        response = self.client.get(reverse('boards'))
         user = response.context.get('user')
         self.assertTrue(user.is_authenticated)
 

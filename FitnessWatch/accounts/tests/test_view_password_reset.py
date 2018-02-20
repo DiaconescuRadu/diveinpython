@@ -164,7 +164,7 @@ class LoginRequiredPasswordChangeTests(TestCase):
         url = reverse('password_change')
         login_url = reverse('login')
         response = self.client.get(url)
-        self.assertRedirects(response, f'{login_url}?next={url}')
+        self.assertRedirects(response, '{}?next={}'.format(login_url, url))
         
         
 class PasswordChangeTestCase(TestCase):

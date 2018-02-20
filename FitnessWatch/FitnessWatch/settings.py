@@ -132,4 +132,6 @@ STATICFILES_DIRS = [
 LOGOUT_REDIRECT_URL = 'boards'
 LOGIN_REDIRECT_URL = 'boards'
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+#EMAIL_BACKEND = 'django.core.mail.backends.filebased.EmailBackend'
+#EMAIL_FILE_PATH = '/home/griz/emails'
 LOGIN_URL = 'login'
