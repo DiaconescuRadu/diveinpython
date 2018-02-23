@@ -14,12 +14,11 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
 from django.conf.urls import url
 from boards import views as board_views
+from strava import views as strava_views
 from accounts import views as accounts_views
 from django.contrib.auth import views as auth_views
-from django.urls.conf import re_path
 
 urlpatterns = [
     url('admin/', admin.site.urls),
@@ -52,4 +51,6 @@ urlpatterns = [
     url(r'^boards/(?P<pk>\d+)/$', board_views.board_topics, name='board_topics'),
     url(r'^boards/(?P<pk>\d+)/new$', board_views.new_topic, name='new_topic'),
     url(r'^boards/$', board_views.boards, name = 'boards'),
+    url(r'^strava_auth/$', strava_views.strava_auth, name = 'strava_auth'),
+    url(r'^strava_redirect/$', strava_views.strava_redirect, name = 'strava_redirect'),
 ]
