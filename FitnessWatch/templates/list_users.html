@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block breadcrumb %}
+  <li class="breadcrumb-item active">Boards</li>
+{% endblock %}
+
+{% block content %}
+  <table class="table">
+    <thead class="thead-inverse">
+      <tr>
+        <th>Username</th>
+        <th>StravaUserName</th>
+        <th>StravaAuthKey</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for user in users %}
+        <tr>
+          <td>
+            <small class="text-muted d-block">{{ user.username }}</small>
+          </td>
+          <td>
+            <small class="text-muted d-block">{{ user.profile.stravaUserName }}</small>
+          </td>
+          <td>
+            <small class="text-muted d-block">{{ user.profile.stravaAuthKey }}</small>
+          </td>
+         </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endblock %}

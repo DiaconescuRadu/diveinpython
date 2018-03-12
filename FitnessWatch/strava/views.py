@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from stravalib.client import Client
+from django.contrib.auth.models import User
 
 CLIENT_ID = "17148"
 CLIENT_SECRET = "1b8bb7c47cb68b5ff0f03ca4c310a2c3262d828d"
@@ -14,6 +15,11 @@ def strava_redirect(request):
     access_token = client.exchange_code_for_token(CLIENT_ID, CLIENT_SECRET, auth_code)
     client.access_token = access_token
     athlete = client.get_athlete()
+    
+    currentUser = User.objects.get(pk=request.user.id)
+    currentUser.profile.stravaUserName = athlete
+    currentUser.profile.stravaAuthKey = access_token
+    currentUser.profile.save()
     
     return render(request, 'strava_redirect.html', {'athlete_name': athlete.username})
 

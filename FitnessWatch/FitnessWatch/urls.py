@@ -21,7 +21,10 @@ from accounts import views as accounts_views
 from django.contrib.auth import views as auth_views
 
 urlpatterns = [
+
+    #user management
     url('admin/', admin.site.urls),
+    url('admin/users', accounts_views.all_accounts),
     url(r'^signup/$', accounts_views.signup, name='signup'),
     url(r'^login/$', auth_views.LoginView.as_view(template_name='login.html'), name='login'),
     url(r'^logout/$', auth_views.LogoutView.as_view(), name='logout'),
@@ -48,9 +51,12 @@ urlpatterns = [
     url(r'^settings/password/done/$', auth_views.PasswordChangeDoneView.as_view(template_name='password_change_done.html'),
         name='password_change_done'),
     
+    #old boards views, should be removed
     url(r'^boards/(?P<pk>\d+)/$', board_views.board_topics, name='board_topics'),
     url(r'^boards/(?P<pk>\d+)/new$', board_views.new_topic, name='new_topic'),
     url(r'^boards/$', board_views.boards, name = 'boards'),
+    
+    #strava views
     url(r'^strava_auth/$', strava_views.strava_auth, name = 'strava_auth'),
     url(r'^strava_redirect/$', strava_views.strava_redirect, name = 'strava_redirect'),
 ]
