@@ -59,4 +59,5 @@ urlpatterns = [
     #strava views
     url(r'^strava_auth/$', strava_views.strava_auth, name = 'strava_auth'),
     url(r'^strava_redirect/$', strava_views.strava_redirect, name = 'strava_redirect'),
+    url(r'^strava_last_activity/$', strava_views.strava_last_activity, name = 'strava_last_activity'),
 ]
