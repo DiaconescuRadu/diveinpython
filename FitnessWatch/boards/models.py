@@ -30,8 +30,7 @@ class Post(models.Model):
 
 class Profile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
-    stravaAuthKey = models.TextField(max_length=4000, null=True)
-    stravaUserName = models.TextField(max_length=4000, null=True)
+    stravaAccessCode = models.TextField(max_length=4000, null=True)
     
 @receiver(post_save, sender=User)
 def create_user_profile(sender, instance, created, **kwargs):

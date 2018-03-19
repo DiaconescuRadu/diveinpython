@@ -23,24 +23,27 @@ def strava_redirect(request):
     athlete = client.get_athlete()
     
     currentUser = User.objects.get(pk=request.user.id)
-    currentUser.profile.stravaUserName = athlete
-    currentUser.profile.stravaAuthKey = access_token
+    currentUser.profile.stravaAccessToken = access_token
     currentUser.profile.save()
     
     return render(request, 'strava_redirect.html', {'athlete_name': athlete.username})
 
 
 def strava_last_activity(request):
-    '''client = Client()
-    client.access_token = accesToken
+    currentUser = User.objects.get(pk=request.user.id)
+
+    client = Client()
+    client.access_token = currentUser.profile.stravaAccessCode
     
     activities = client.get_activities(before = datetime.datetime.now(), limit = 1)
-    
     activityName = ''
     for activity in activities:
-        activityName = activity.name'''
+        activityName = activity.name
+        downloadedActivity = client.get_activity(activity.id)
+        activityStream = client.get_activity_streams(activity.id, types=["time", "watts"])
+        averageCadence = downloadedActivity.average_cadence
 
-    return render(request, 'strava_last_activity.html', {'activity_name': accesToken})
+    return render(request, 'strava_last_activity.html', {'activity_name' : averageCadence})
 
 
 def make_authorization_url():
